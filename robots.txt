@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ubaidullah797.github.io/my-SEO-site/sitemap.xml
